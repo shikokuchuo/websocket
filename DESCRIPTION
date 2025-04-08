@@ -31,3 +31,4 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+Remotes: shikokuchuo/AsioHeaders@update
